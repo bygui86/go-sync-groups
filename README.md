@@ -34,3 +34,4 @@ go run sync-map/sync-map.go
 ## Links
 
 - https://ketansingh.me/posts/golang-x-sync/?ref=FAUN
+- https://www.programmersought.com/article/73431272483/
